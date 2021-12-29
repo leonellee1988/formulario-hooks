@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/formulario-hooks/static/js/main.67a3daa5.js",
+    "main.css": "/formulario-hooks/static/css/main.5db3676e.css",
+    "main.js": "/formulario-hooks/static/js/main.10de8916.js",
     "index.html": "/formulario-hooks/index.html",
-    "main.67a3daa5.js.map": "/formulario-hooks/static/js/main.67a3daa5.js.map"
+    "main.5db3676e.css.map": "/formulario-hooks/static/css/main.5db3676e.css.map",
+    "main.10de8916.js.map": "/formulario-hooks/static/js/main.10de8916.js.map"
   },
   "entrypoints": [
-    "static/js/main.67a3daa5.js"
+    "static/css/main.5db3676e.css",
+    "static/js/main.10de8916.js"
   ]
 }
