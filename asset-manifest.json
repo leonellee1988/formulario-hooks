@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/formulario-hooks/static/css/main.0b225697.css",
-    "main.js": "/formulario-hooks/static/js/main.7c6b40ed.js",
+    "main.css": "/formulario-hooks/static/css/main.bae417da.css",
+    "main.js": "/formulario-hooks/static/js/main.f4539db4.js",
     "index.html": "/formulario-hooks/index.html",
-    "main.0b225697.css.map": "/formulario-hooks/static/css/main.0b225697.css.map",
-    "main.7c6b40ed.js.map": "/formulario-hooks/static/js/main.7c6b40ed.js.map"
+    "main.bae417da.css.map": "/formulario-hooks/static/css/main.bae417da.css.map",
+    "main.f4539db4.js.map": "/formulario-hooks/static/js/main.f4539db4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b225697.css",
-    "static/js/main.7c6b40ed.js"
+    "static/css/main.bae417da.css",
+    "static/js/main.f4539db4.js"
   ]
 }
